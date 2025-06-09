@@ -1,0 +1,21 @@
+{
+  "name": "Gordon Ramsay - Show Me Your Willy",
+  "short_name": "Inosuke",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f1923",
+  "theme_color": "#5cbeff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/441-4415775_head-gordonramsay-ramsay-gordon-gordon-ramsay-hd-png.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/441-4415775_head-gordonramsay-ramsay-gordon-gordon-ramsay-hd-png.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
